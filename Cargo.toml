@@ -1,0 +1,9 @@
+[package]
+name = "edgelist2sqlite"
+version = "0.1.0"
+authors = ["Andy Fang <andyfang.dz@gmail.com>"]
+
+[dependencies]
+memmap = "0.6.2"
+rusqlite = "0.13.0"
+csv = "1.0.0-beta.5"
